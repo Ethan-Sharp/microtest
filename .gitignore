@@ -3,8 +3,8 @@
 .vs
 /.idea
 /node_modules
-/docs/**/beepbox*.js
-/docs/**/beepbox*.js.map
+#/docs/**/beepbox*.js
+#/docs/**/beepbox*.js.map
 /docs/beepbox_offline.html
 /editor/*.js
 /player/*.js
